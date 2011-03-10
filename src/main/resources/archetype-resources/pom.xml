@@ -7,7 +7,7 @@
   <version>${version}</version>
   <packaging>war</packaging>
 
-  <name>${artifactId} Maven J2EE13 Webapp</name>
+  <name>${artifactId}</name>
   <url>http://maven.apache.org</url>
 
   <dependencies>
@@ -45,6 +45,5 @@
         </configuration>
       </plugin>
     </plugins>
-    <finalName>${artifactId}</finalName>
   </build>
 </project>
